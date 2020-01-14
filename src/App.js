@@ -29,6 +29,14 @@ function App() {
       <Split className='right'>
         This is the content for the right 'Split'. Inventor {secondTooltip} boppitypoo
       </Split>
+      <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
     </main>
   );
 }

@@ -8,6 +8,4 @@ function leapYear(year) {
     return div400 || (div4 || !div100);
 }
 
-learn react;
-
 export default leapYear;
